@@ -1,0 +1,8 @@
+H:\Bases_De_Donnees\BDD_debut\BDD_debut\bin\Debug\Comptoirs.accdb
+H:\Bases_De_Donnees\BDD_debut\BDD_debut\bin\Debug\BDD_debut.exe.config
+H:\Bases_De_Donnees\BDD_debut\BDD_debut\bin\Debug\BDD_debut.exe
+H:\Bases_De_Donnees\BDD_debut\BDD_debut\bin\Debug\BDD_debut.pdb
+H:\Bases_De_Donnees\BDD_debut\BDD_debut\obj\Debug\BDD_debut.csproj.AssemblyReference.cache
+H:\Bases_De_Donnees\BDD_debut\BDD_debut\obj\Debug\BDD_debut.csproj.CoreCompileInputs.cache
+H:\Bases_De_Donnees\BDD_debut\BDD_debut\obj\Debug\BDD_debut.exe
+H:\Bases_De_Donnees\BDD_debut\BDD_debut\obj\Debug\BDD_debut.pdb

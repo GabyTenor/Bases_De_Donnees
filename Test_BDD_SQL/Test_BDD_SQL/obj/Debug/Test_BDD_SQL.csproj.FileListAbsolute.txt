@@ -1,0 +1,7 @@
+C:\Users\softlocal\Desktop\Bases_De_Donnees\Test_BDD_SQL\Test_BDD_SQL\bin\Debug\Test_BDD_SQL.exe.config
+C:\Users\softlocal\Desktop\Bases_De_Donnees\Test_BDD_SQL\Test_BDD_SQL\bin\Debug\Test_BDD_SQL.exe
+C:\Users\softlocal\Desktop\Bases_De_Donnees\Test_BDD_SQL\Test_BDD_SQL\bin\Debug\Test_BDD_SQL.pdb
+C:\Users\softlocal\Desktop\Bases_De_Donnees\Test_BDD_SQL\Test_BDD_SQL\obj\Debug\Test_BDD_SQL.csproj.AssemblyReference.cache
+C:\Users\softlocal\Desktop\Bases_De_Donnees\Test_BDD_SQL\Test_BDD_SQL\obj\Debug\Test_BDD_SQL.csproj.CoreCompileInputs.cache
+C:\Users\softlocal\Desktop\Bases_De_Donnees\Test_BDD_SQL\Test_BDD_SQL\obj\Debug\Test_BDD_SQL.exe
+C:\Users\softlocal\Desktop\Bases_De_Donnees\Test_BDD_SQL\Test_BDD_SQL\obj\Debug\Test_BDD_SQL.pdb
